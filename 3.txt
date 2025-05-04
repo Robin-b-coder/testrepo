@@ -1,2 +1,2 @@
 3
-Das ist die dritte TestFile für Git
+Das ist die TestFile für Git
