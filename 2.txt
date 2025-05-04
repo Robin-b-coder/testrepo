@@ -1,1 +1,2 @@
 Das ist der Merge Conflict bei mir. Das ist der Inhalt vom 2tem File.
+Git branch: file2_RS
