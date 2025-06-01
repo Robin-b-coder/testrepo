@@ -1,0 +1,4 @@
+Diese Datei ist da für den Pull-Request
+
+// ist in Java ein einzeiliger Kommentar,
+/**/ ist in Java ein mehrzeiliger Kommentar 
